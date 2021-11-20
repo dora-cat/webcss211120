@@ -68,7 +68,8 @@
 	.rollImg {
 		width: 1200px;
 		height: 200px; 
-		margin: auto;
+		margin-left: 120px;
+		margin-top: 5px
 	}
 	.rollImg img {
 		width: 1200px; 
