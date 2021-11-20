@@ -1,0 +1,171 @@
+	
+	* {
+		margin: 0;
+		padding: 0;
+		font-family: 'Arial';
+	}
+	body {
+		font-size: 14px;
+	}
+	a {
+		text-decoration: none;
+	}
+	.logo {
+		height:60px;
+		width: 100px;
+		margin: auto;
+	}
+	.logo img {
+		height: 60px; 
+		width: auto; 
+		float: left;
+	}
+	.menu {
+		width: 100%; 
+		height: 45px; 
+		background: #69AE62;
+	}
+	.menu div {
+		height: 45px; 
+		width: 1200px; 
+		margin: auto;
+	}
+	.menu div ul {
+		height: 45px;
+	}
+	.menu div ul li {
+		height: 45px;
+		line-height: 50px;
+		padding: 0 25px 0 25px;
+		list-style: none;
+		display: inline-block;
+		font-size: 16px;
+	}
+	.menu div ul li:hover {
+		background: #bbb;
+		cursor: pointer;
+	}
+	.bgRed {
+		background: #EC4646;
+	}
+	.menu div ul li a {
+		color: #FFF;
+		display: block;
+		height: 50px;
+		line-height: 50px;
+		text-decoration: none;
+	}
+	.location {
+		width: 1200px; 
+		height: 36px; 
+		margin:auto; 
+		background: #CFD7CF; 
+		line-height: 36px;
+	}
+	.location div{
+		padding-left: 25px;
+	}
+	.rollImg {
+		width: 1200px;
+		height: 180px; 
+		margin: auto;
+	}
+	.rollImg img {
+		width: 1200px; 
+		height: 180px;
+	}
+	.command {
+		width: 1200px; 
+		height: auto; 
+		margin: auto; 
+		margin-top: 10px;
+	}
+	.cmdProd {
+		width: 300px; 
+		height: 340px; 
+		border: 1px solid #dedede; 
+		float: left;
+	}
+	.cmdProd .title {
+		height: 40px; 
+		width: 100%;
+		background: url(https://www.publicdomainpictures.net/pictures/30000/velka/solid-green-background.jpg) no-repeat; 
+		line-height: 40px; 
+		font-size: 16px; 
+		color: #fff;
+	}
+	.title span {
+		margin-left: 15px;
+	}
+	.command .cmdInfo {
+		width: 888px; 
+		height: 340px; 
+		border: 1px solid #dedede; 
+		float: right;
+	}
+	.command .cmdInfo .title {
+		height: 40px; 
+		width: 100%;
+		background: url(https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/34f3ab030d39bb1cce2945d903331219-1570786852/website%20banner/design-google-ad-banners-for-online-fashion-websites.jpg); 
+		line-height: 40px; 
+		font-size: 16px; 
+		color: #fff;
+	}
+	
+	
+	.prodUL li {
+		height: 36px;
+		padding-left: 10px;
+		list-style: none;
+		display: block;
+		border-bottom: 1px dashed #ddd;
+	}
+	.prodUL li a{
+		display: block;
+		height: 36px;
+		line-height: 40px;
+		text-decoration: none;
+		color: #000;
+	}
+	.prodUL li a:hover{
+		color: green;
+	}
+	
+	
+	.adDiv {
+		width: 1200px;
+		height: 100px; 
+		margin: auto; 
+		margin-top: 10px; 
+		border: 1px solid #dedede;
+	}
+	.adDiv img {
+		width: 100%; 
+		height: 100%;
+	}
+	.fruit li {
+		width: 220px;
+		height: auto;
+		list-style: none;
+		display: inline-block;
+		border: 1px solid #ddd;
+		text-align: center;
+		margin-left: 12px;
+		margin-top: 10px;
+	}
+	.fruit li:hover {
+		color: green;
+	}
+	.fruit li img {
+		margin: auto;
+		margin-top: 10px;
+	}
+	.copyright {
+		width: 100%; 
+		height: 36px; 
+		background: #626262; 
+		line-height: 36px; 
+		text-align: center; 
+		color: #fff; 
+		margin-top:10px;
+	}
